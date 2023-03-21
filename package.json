@@ -1,0 +1,9 @@
+{
+  "name": "cp",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "",
+  "main": "index.js",
+  "author": "Hakan Abdali <hakan.ab02@gmail.com>",
+  "license": "MIT"
+}
